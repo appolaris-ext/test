@@ -1,0 +1,4 @@
+| Problem | Possible Cause | Solution |
+| Ppp1    | YyyA           | ZzzA     |
+|         | YyyB           | ZzzB     |
+| Ppp2    | YyyC           | ZzzC     |
