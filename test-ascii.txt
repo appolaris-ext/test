@@ -1,4 +1,4 @@
-| Problem | Possible Cause | Solution |
-| Ppp1    | YyyA           | ZzzA     |
-|         | YyyB           | ZzzB     |
-| Ppp2    | YyyC           | ZzzC     |
+Problem | Possible Cause | Solution |
+qwe     | rty            | uio      |
+        | fgh            | jkl      |
+zxc     | vbn            | mmm      |
